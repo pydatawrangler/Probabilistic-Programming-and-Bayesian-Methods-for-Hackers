@@ -1,7 +1,7 @@
 ipython
 matplotlib
 numpy
-pymc
+pymc3
 pyzmq
 scipy
 tornado
