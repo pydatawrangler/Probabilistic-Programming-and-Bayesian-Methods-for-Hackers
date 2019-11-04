@@ -5,6 +5,5 @@ pymc3
 pyzmq
 scipy
 tornado
-wsgiref
 praw
 jinja2
